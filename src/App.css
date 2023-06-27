@@ -1,5 +1,23 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  height: 100vh;
+  background-color: black;
+  position: relative;
+}
+
+.cordinate{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: blue;
+  position: absolute;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.action-buttons{
+  
 }
 
 .App-logo {
